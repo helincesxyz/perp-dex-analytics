@@ -1,5 +1,5 @@
 # perp-dex-analytics
-Database model based on perp-dex data on Hyperliquid, GMX, EdgeX
+Database model and SQL queries to retrieve data on Hyperliquid, GMX, EdgeX
 
 
 # Description
