@@ -1,5 +1,4 @@
 -- ============================================================
--- CS306 Spring 2025-2026 — Project Phase 3
 -- Decentralized Perpetual Exchange Analytics Platform
 -- ============================================================
 -- SQL Queries
